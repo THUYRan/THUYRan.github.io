@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a third year master student at Tsinghua University. My supervisor is Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
+I am now a third year master student at Tsinghua University. My supervisor is Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interest is about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
 
 I am looking for a PhD position in 2024fall. 
 
@@ -16,16 +16,16 @@ Education
 
 | Year | Education |
 | :------ | :------ | 
-| *09.2021-present* | M.S. student, Department of Computer Science and Technology, Tsinghua University, China. |
-| *09.2017-06.2021* | B.E., Department of Computer Science and Technology, Tsinghua University, China. |
+| *09.2021-present* | M.S. student, Computational Law, Tsinghua University, China. |
+| *09.2017-06.2021* | B.E., Computer Science and Technology, Beijing Foreign Studies University, China. |
 
 Publications
 =====
 
-| **Joint Optimization of Multi-vector Representation with Product Quantization** |
+| **MUSER: A Multi-View Similar Case Retrieval Dataset** |
 | :------ |
-| **Yan Fang**, Jingtao Zhan, Yiqun Liu, Jiaxin Mao, Min Zhang, Shaoping Ma. |
-| NLPCC 2022 [Preprint Version](https://Suffoquer-fang.github.io/files/jmpq_nlpcc.pdf) |
+| **CIKM2023 Best Resource Paper Honorable Mention** |
+| CIKM2023 [Preprint Version](https://Suffoquer-fang.github.io/files/jmpq_nlpcc.pdf) |
 
 | **Axiomatically Regularized Pre-training for Ad hoc Search** |
 | :------ |
