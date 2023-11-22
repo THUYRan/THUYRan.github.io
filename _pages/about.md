@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Yiran HU(胡伊然). I am now a third year master student at Tsinghua University. My supervisors are Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Besides, I am also a research assistant in the University of Hong Kong, under the supervision of prof.Ben Kao. My major research interest is about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
+Hi! I am Yiran HU(胡伊然). My name comes from an old Chinese Poem. 蒹葭苍苍，白露为霜。所谓伊人，在水一方。(Green, green the reed. Dew and frost gleam. Where’s she I need. Beyond the stream.)
+
+I am now a third year master student at Tsinghua University. My supervisors are Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Besides, I am also a research assistant in the University of Hong Kong, under the supervision of prof.Ben Kao. My major research interest is about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
 
 I am looking for a PhD position in 2024fall. 
 
