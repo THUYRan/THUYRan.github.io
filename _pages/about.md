@@ -22,9 +22,9 @@ Education
   Tsinghua University Scholarship.
 * ***2017-2021, B.E., Computer Science and Technology, Beijing Foreign Studies University.*** \
   Graduate as the Rank 1 student in my grade. \
-  Double major in Law and Diplomacy.\
   Beijing Outstanding Graduate.\
-  Three times First-Class Scholarship(2018, 2019, 2020)
+  Three times First-Class Scholarship(2018, 2019, 2020)\
+  Double major in Law and Diplomacy.\
 
 Publications
 ======
