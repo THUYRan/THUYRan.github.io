@@ -26,10 +26,10 @@ Publications
 ***CIKM2023 Best Resource Paper Honorable Mention***\
 32nd ACM International Conference on Information and Knowledge Management.
 **(CIKM 2023)**.
-* Enhance Performance of Ad-hoc Search via Prompt Learning. \
-***Shenghao Yang***, Yiqun Liu, Xiaohui Xie, Min Zhang and Shaoping Ma. \
-The 28th China Conference on Information Retrieval.
-**(CCIR 2022)**.
+  Paper Link()
+* Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval. \
+32nd ACM International Conference on Information and Knowledge Management.
+**(CIKM 2023)**.
 * Axiomatically Regularized Pre-training for Ad hoc Search. \
 Jia Chen, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, ***Shenghao Yang***, Xiaohui Xie, Min Zhang, Shaoping Ma. \
 The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
