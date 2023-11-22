@@ -38,4 +38,5 @@ The 45th European Conference on Information Retrieval.
   [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/Investigating.pdf) [[code]](https://github.com/BulouLiu/Conversational-vs-Traditional-Legal-Case-Retrieval)
 * LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System \
 32nd ACM International Conference on Information and Knowledge Management Workshop.
-**(MLLD 2023)**. \ [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
+**(MLLD 2023)**. \
+[[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
