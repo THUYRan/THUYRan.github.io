@@ -26,10 +26,9 @@ Publications
 | :------ |
 | CIKM2023 [Preprint Version](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf) |
 
-| **Axiomatically Regularized Pre-training for Ad hoc Search** |
+| **Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval L** |
 | :------ |
-|Jia Chen, Yiqun Liu, **Yan Fang**, Jiaxin Mao, Hui Fang, Shenghao Yang, Xiaohui Xie, Min Zhang, Shaoping Ma. |
-| SIGIR 2022 (Full, Acceptance Rate: 20.3%). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf) |
+| CIKM 2023 Full Paper. [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf) |
 
 | **ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems** |
 | :------ |
