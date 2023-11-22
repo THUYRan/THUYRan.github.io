@@ -11,14 +11,6 @@ Hi! I am Yiran HU(胡伊然). I am now a third year master student at Tsinghua U
 
 I am looking for a PhD position in 2024fall. 
 
-Education
-======
-
-| Year | Education |
-| :------ | :------ | 
-| *09.2021-present* | M.S. student, Computational Law, Tsinghua University, China. |
-| *09.2017-06.2021* | B.E., Computer Science and Technology, Beijing Foreign Studies University, China. |
-
 
 Publications
 ======
@@ -41,3 +33,19 @@ The 45th European Conference on Information Retrieval.
 **(MLLD 2023)**. \
 [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
 [[code]](https://github.com/THUlawtech/LEEC)
+
+Education
+======
+
+* ***2021-present***, Master student, Computational Law, Tsinghua University.
+* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University.
+
+Experiences
+======
+
+* ***2023-present***, Research Assistant, The University of Hong Kong.
+* ***2022-2023***, Deputy Dean of Dance Troupe, Tsinghua University.
+* ***2021-2021***, Student of Continuing Education College of Beijing Dance Academy.
+* ***2019-2020***, Chair of Student Union, School of Information Science and Technology, Beijing Foreign Studies University.
+* ***2019-2019***, Summer Workshop in National University of Singapre.
+* ***2017-2019***, Grade Monitor of 2017, Beijing Foreign Studies University. 
