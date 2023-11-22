@@ -40,4 +40,4 @@ The 45th European Conference on Information Retrieval.
 32nd ACM International Conference on Information and Knowledge Management Workshop.
 **(MLLD 2023)**. \
 [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
-[[code]](https://github.com/THUlawtech/LEEC)https://github.com/THUlawtech/LEEC)
+[[code]](https://github.com/THUlawtech/LEEC)
