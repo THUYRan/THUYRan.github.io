@@ -38,7 +38,7 @@ Education
 ======
 
 * ***2021-present***, Master student, Computational Law, Tsinghua University.
-* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University.
+* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University. (Minor in Law and Diplomacy)
 
 Experiences
 ======
