@@ -24,7 +24,7 @@ Education
   Graduate as the Rank 1 student in my grade. \
   Beijing Outstanding Graduate.\
   Three times First-Class Scholarship(2018, 2019, 2020)\
-  Double major in Law and Diplomacy.\
+  Double major in Law and Diplomacy.
 
 Publications
 ======
