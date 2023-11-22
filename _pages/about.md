@@ -36,10 +36,6 @@ Publications
 The 45th European Conference on Information Retrieval.
 **(ECIR 2023 Full Paper)**.\
   [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/Investigating.pdf) [[code]](https://github.com/BulouLiu/Conversational-vs-Traditional-Legal-Case-Retrieval)
-***Shenghao Yang***, Haitao Li, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang, Shaoping Ma. \
-The 16th NII Testbeds and Community for Information access Research
-**(NTCIR-16)**. [[paper]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/04-NTCIR16-WWW-YangS.pdf)
-* 基于半监督学习的涉及未成年人案件文书识别方法 \
-***杨圣豪***， 吴玥悦， 毛佳昕， 刘奕群， 张敏， 马少平 \
-The 26th China Conference on Information Retrieval.
-**(CCIR 2020)**. [[paper]](https://www.cnki.com.cn/Article/CJFDTotal-HNLG202101004.htm)
+* LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System \
+32nd ACM International Conference on Information and Knowledge Management Workshop.
+**(MLLD 2023)**. \ [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
