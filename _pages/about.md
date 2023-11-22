@@ -30,12 +30,12 @@ Publications
   [[code]](https://github.com/THUlawtech/MUSER)
 * Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval. \
 32nd ACM International Conference on Information and Knowledge Management.
-**(CIKM 2023)**.
-* Axiomatically Regularized Pre-training for Ad hoc Search. \
-Jia Chen, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, ***Shenghao Yang***, Xiaohui Xie, Min Zhang, Shaoping Ma. \
-The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
-**(SIGIR 2022)**. [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531943) [[code]](https://github.com/xuanyuan14/ARES)
-* THUIR at the NTCIR-16 WWW-4 Task. \
+**(CIKM 2023 Full Paper)**.\
+  [[Paper]] (https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LeClari.pdf)
+* Investigating the Conversational Agent Action in Legal Case Retrieval. \
+The 45th European Conference on Information Retrieval.
+**(ECIR 2023 Full Paper)**.\
+  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/Investigating.pdf) [[code]](https://github.com/BulouLiu/Conversational-vs-Traditional-Legal-Case-Retrieval)
 ***Shenghao Yang***, Haitao Li, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang, Shaoping Ma. \
 The 16th NII Testbeds and Community for Information access Research
 **(NTCIR-16)**. [[paper]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/04-NTCIR16-WWW-YangS.pdf)
