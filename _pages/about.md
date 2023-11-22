@@ -19,18 +19,26 @@ Education
 | *09.2021-present* | M.S. student, Computational Law, Tsinghua University, China. |
 | *09.2017-06.2021* | B.E., Computer Science and Technology, Beijing Foreign Studies University, China. |
 
+
 Publications
-=====
-
-| **MUSER: A Multi-View Similar Case Retrieval Dataset**  CIKM2023 Best Resource Paper Honorable Mention |
-| :------ |
-| CIKM2023 [Preprint Version](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf) |
-
-| **Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval** |
-| :------ |
-| CIKM 2023 Full Paper. [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf) |
-
-| **ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems** |
-| :------ |
-| Qi Zhu, Zheng Zhang, **Yan Fang**, Xiang Li, Ryuichi Takanobu, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu, Minlie Huang |
-| ACL 2020 (Demo). [Preprint Version](https://arxiv.org/abs/2002.04793) |
+======
+* MUSER: A Multi-View Similar Case Retrieval Dataset. \
+***CIKM2023 Best Resource Paper Honorable Mention***\
+32nd ACM International Conference on Information and Knowledge Management.
+**(CIKM 2023)**.
+* Enhance Performance of Ad-hoc Search via Prompt Learning. \
+***Shenghao Yang***, Yiqun Liu, Xiaohui Xie, Min Zhang and Shaoping Ma. \
+The 28th China Conference on Information Retrieval.
+**(CCIR 2022)**.
+* Axiomatically Regularized Pre-training for Ad hoc Search. \
+Jia Chen, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, ***Shenghao Yang***, Xiaohui Xie, Min Zhang, Shaoping Ma. \
+The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+**(SIGIR 2022)**. [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531943) [[code]](https://github.com/xuanyuan14/ARES)
+* THUIR at the NTCIR-16 WWW-4 Task. \
+***Shenghao Yang***, Haitao Li, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang, Shaoping Ma. \
+The 16th NII Testbeds and Community for Information access Research
+**(NTCIR-16)**. [[paper]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/04-NTCIR16-WWW-YangS.pdf)
+* 基于半监督学习的涉及未成年人案件文书识别方法 \
+***杨圣豪***， 吴玥悦， 毛佳昕， 刘奕群， 张敏， 马少平 \
+The 26th China Conference on Information Retrieval.
+**(CCIR 2020)**. [[paper]](https://www.cnki.com.cn/Article/CJFDTotal-HNLG202101004.htm)
