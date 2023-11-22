@@ -15,6 +15,11 @@ Looking ahead, I aspire to delve into more intriguing research areas within comp
 
 In the upcoming fall of 2024, I am actively seeking a PhD position to further my academic journey.
 
+Education
+======
+
+* ***2021-present***, Master student, Computational Law, Tsinghua University.
+* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University. (Minor in Law and Diplomacy)
 
 Publications
 ======
@@ -38,11 +43,7 @@ The 45th European Conference on Information Retrieval.
 [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC.pdf)
 [[code]](https://github.com/THUlawtech/LEEC)
 
-Education
-======
 
-* ***2021-present***, Master student, Computational Law, Tsinghua University.
-* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University. (Minor in Law and Diplomacy)
 
 Experiences
 ======
