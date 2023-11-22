@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a third year master student at Tsinghua University. My supervisors are Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interest is about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
+Hi! I am Yiran HU(胡伊然). I am now a third year master student at Tsinghua University. My supervisors are Prof. Weixing Shen and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interest is about Computational Law. In the future, I want to explore more interesting researches on computational social science, includes AI in education, AI in psychology...I am extremely interested in how to integrate domain knowledge in language models.
 
 I am looking for a PhD position in 2024fall. 
 
