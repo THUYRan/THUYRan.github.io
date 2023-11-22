@@ -21,9 +21,9 @@ Education
 * ***2021-present, Master student, Computational Law, Tsinghua University.***\
   Tsinghua University Scholarship.
 * ***2017-2021, B.E., Computer Science and Technology, Beijing Foreign Studies University.*** \
-  Graduate as the Rank 1 student in my grade. \
+  Graduate as the Top 1 student in my grade. \
   Beijing Outstanding Graduate.\
-  Three times First-Class Scholarship(2018, 2019, 2020)\
+  Three times First-Class Scholarship(2018, 2019, 2020).\
   Double major in Law and Diplomacy.
 
 Publications
