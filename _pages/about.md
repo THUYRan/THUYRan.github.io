@@ -23,6 +23,7 @@ Publications
 =====
 
 | **MUSER: A Multi-View Similar Case Retrieval Dataset**  CIKM2023 Best Resource Paper Honorable Mention |
+| :------ |
 | CIKM2023 [Preprint Version](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf) |
 
 | **Axiomatically Regularized Pre-training for Ad hoc Search** |
