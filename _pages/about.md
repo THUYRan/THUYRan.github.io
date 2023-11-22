@@ -25,8 +25,8 @@ Publications
 * MUSER: A Multi-View Similar Case Retrieval Dataset. \
 ***CIKM2023 Best Resource Paper Honorable Mention***\
 32nd ACM International Conference on Information and Knowledge Management.
-**(CIKM 2023)**.
-  Paper Link()
+**(CIKM 2023)**.\
+  Paper Link(https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf) Github Link(https://github.com/THUlawtech/MUSER)
 * Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval. \
 32nd ACM International Conference on Information and Knowledge Management.
 **(CIKM 2023)**.
