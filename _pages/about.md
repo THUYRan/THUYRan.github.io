@@ -45,11 +45,11 @@ The 45th European Conference on Information Retrieval.
 
 Projects
 ======
-* ***2021-2023***, Group Member, National Ministry of Science and Technology key research and development project "Private Lending Intelligent Trial Technology"
-* ***2022-2023***, Group Member, Conversational Legal Case Retrieval
-* ***2022-2023***, Group Member, The Trusted Legal Artificial Intelligence
-* ***2022-2023***, Group Leader, Work Injury Compensation Tool Series
-* ***2022-2023***, Group Leader, The Legal Aid Platform Construction
+* National Ministry of Science and Technology key research and development project "Private Lending Intelligent Trial Technology", ***Group Member***
+* Conversational Legal Case Retrieval, ***Group Member***
+* Group Member, The Trusted Legal Artificial Intelligence, ***Group Member***
+* Group Leader, Work Injury Compensation Tool Series, ***Group Leader***
+* Group Leader, The Legal Aid Platform Construction, ***Group Leader***
 
 
 
