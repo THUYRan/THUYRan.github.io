@@ -31,7 +31,7 @@ Publications
 * Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval. \
 32nd ACM International Conference on Information and Knowledge Management.
 **(CIKM 2023 Full Paper)**.\
-  [[Paper]] (https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LeClari.pdf)
+  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LeClari.pdf)
 * Investigating the Conversational Agent Action in Legal Case Retrieval. \
 The 45th European Conference on Information Retrieval.
 **(ECIR 2023 Full Paper)**.\
