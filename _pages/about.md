@@ -47,9 +47,9 @@ Projects
 ======
 * National Ministry of Science and Technology key research and development project "Private Lending Intelligent Trial Technology", ***Group Member***
 * Conversational Legal Case Retrieval, ***Group Member***
-* Group Member, The Trusted Legal Artificial Intelligence, ***Group Member***
-* Group Leader, Work Injury Compensation Tool Series, ***Group Leader***
-* Group Leader, The Legal Aid Platform Construction, ***Group Leader***
+* The Trusted Legal Artificial Intelligence, ***Group Member***
+* Work Injury Compensation Tool Series, ***Group Leader***
+* The Legal Aid Platform Construction, ***Group Leader***
 
 
 
