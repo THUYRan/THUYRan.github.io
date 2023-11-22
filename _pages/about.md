@@ -18,8 +18,13 @@ In the upcoming fall of 2024, I am actively seeking a PhD position to further my
 Education
 ======
 
-* ***2021-present***, Master student, Computational Law, Tsinghua University.
-* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University. (Minor in Law and Diplomacy)
+* ***2021-present***, Master student, Computational Law, Tsinghua University.\
+  Tsinghua University Scholarship.
+* ***2017-2021***, B.E., Computer Science and Technology, Beijing Foreign Studies University. \
+  Graduate as the Rank 1 student in my grade. \
+  Double major in Law and Diplomacy.\
+  Beijing Outstanding Graduate.\
+  Three times First-Class Scholarship(2018, 2019, 2020)
 
 Publications
 ======
