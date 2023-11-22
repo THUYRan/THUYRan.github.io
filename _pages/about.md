@@ -26,7 +26,7 @@ Publications
 | :------ |
 | CIKM2023 [Preprint Version](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf) |
 
-| **Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval L** |
+| **Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval** |
 | :------ |
 | CIKM 2023 Full Paper. [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf) |
 
