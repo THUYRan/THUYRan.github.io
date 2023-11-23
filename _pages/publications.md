@@ -27,12 +27,12 @@ author_profile: true
 **(CIKM 2023 Full Paper)**.\
   Our preliminary study has shown that generating clarifying questions in legal conversational search with SOTA LLMs (e.g., GPT-4) often suffers from several problems such as duplication and low-utility contents. To address these problems, we propose LeClari, which leverages legal event schema as external knowledge to instruct LLMs to generate effective clarifying questions for legal conversational search. LeClari is constructed with a prompt module and a novel legal event selection module. The former defines a prompt with legal events for clarifying question generation and the latter selects potential event types by modeling the relationships of legal event types, conversational context, and candidate cases. We also propose ranking-oriented rewards and employ the reward augmented maximum likelihood (RAML) method to optimize LeClari directly based on the final retrieval performance of the conversational legal search system. \
   [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LeClari.pdf)
-* ***Investigating the Conversational Agent Action in Legal Case Retrieval. ***\
+* ***Investigating the Conversational Agent Action in Legal Case Retrieval.*** \
 The 45th European Conference on Information Retrieval.
 **(ECIR 2023 Full Paper)**.\
   We investigate the conversational agent action in legal case retrieval from the behavioral perspective. Specifically, we conducted a lab-based user study to collect user and agent search behavior while using agent-mediated conversational legal case retrieval systems. Based on the collected data, we analyze the relationship between historical search interaction behaviors and current agent actions in conversational legal case retrieval. We believe that this work can contribute to a better understanding of agent action and useful guidance for developing practical systems for conversational legal case retrieval. \
   [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/Investigating.pdf) [[code]](https://github.com/BulouLiu/Conversational-vs-Traditional-Legal-Case-Retrieval)
-* ***LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System ***\
+* ***LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System***\
 32nd ACM International Conference on Information and Knowledge Management Workshop.
 **(MLLD 2023)**. \
   As a pivotal task in natural language processing, element extraction has gained significance in the legal domain. Extracting legal
