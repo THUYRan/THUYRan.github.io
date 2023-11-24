@@ -178,10 +178,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Experiences and Honors:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Miscellaneous:
     output: true
     permalink: /:collection/:path/
   # talks:
