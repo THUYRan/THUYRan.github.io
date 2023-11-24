@@ -11,7 +11,7 @@ Hi! I am Yiran HU (胡伊然). My name derives from an old Chinese Poem. 蒹葭�
 
 I am now a third year master student at Tsinghua University.  I am fortunate to be supervised by Prof. [Weixing Shen](https://www.law.tsinghua.edu.cn/en/info/1056/1233.htm) and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Additionally, I serve as a research assistant at the University of Hong Kong, working under the guidance of Prof. [Ben Kao](https://www.cs.hku.hk/index.php/people/academic-staff/kao). My major research interest lies in Computational Law. Pursuing courses in both the Department of Computer Science and the School of Law, and collaborating with students from diverse backgrounds on research, has made my graduate life truly fascinating.
 
-Looking ahead, I aspire to delve into more intriguing research areas within computational social science, such as AI in education and AI in psychology. I am particularly fascinated by the integration of domain knowledge in language models and also passionate about exploring the robustness and safety of AI.
+Looking ahead, I aspire to delve into more intriguing research areas within computational social science. I am particularly fascinated by the integration of domain knowledge in language models and also passionate about exploring the robustness and safety of AI.
 
 In the upcoming fall of 2024, I am actively seeking a PhD position to further my academic journey.
 
