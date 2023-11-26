@@ -1,7 +1,5 @@
 ---
 title: "Experiences and Honors"
-collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/Experience and Honor
 ---
 
