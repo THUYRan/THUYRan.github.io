@@ -1,6 +1,8 @@
 ---
-title: "Experiences and Honors"
-permalink: /teaching/Experience and Honor
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
 Experiences
