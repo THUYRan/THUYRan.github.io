@@ -181,9 +181,9 @@ collections:
   Experiences and Honors:
     output: true
     permalink: /:collection/:path/
-  Miscellaneous:
-    output: true
-    permalink: /:collection/:path/
+  # Miscellaneous:
+  #   output: true
+  #   permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
