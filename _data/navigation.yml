@@ -9,8 +9,8 @@ main:
   - title: "Experiences and Honors"
     url: /teaching/    
     
-  - title: "Miscellaneous"
-    url: /portfolio/
+  # - title: "Miscellaneous"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
