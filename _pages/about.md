@@ -26,7 +26,7 @@ Education
   Three times First-Class Scholarship(2018, 2019, 2020).\
   Double major in Law and Diplomacy.
 
-Publications
+Publications (Selected)
 ======
 * MUSER: A Multi-View Similar Case Retrieval Dataset. \
 ***CIKM2023 Best Resource Paper Honorable Mention***\
