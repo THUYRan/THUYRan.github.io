@@ -29,7 +29,7 @@ Education
 Publications (Selected)
 ======
 * MUSER: A Multi-View Similar Case Retrieval Dataset. \
-***CIKM2023 Best Resource Paper Honorable Mention***\
+***<font color='red'>CIKM2023 Best Resource Paper Honorable Mention</font>***\
 32nd ACM International Conference on Information and Knowledge Management.
 **(CIKM 2023)**.\
   [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf)
