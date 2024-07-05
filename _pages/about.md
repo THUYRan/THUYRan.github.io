@@ -28,6 +28,12 @@ Education
 
 Publications (Selected)
 ======
+* LEEC for judicial fairness:  \
+***<font color='red'>CIKM2023 Best Resource Paper Honorable Mention</font>***\
+32nd ACM International Conference on Information and Knowledge Management.
+**(CIKM 2023)**.\
+  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf)
+  [[code]](https://github.com/THUlawtech/MUSER)
 * MUSER: A Multi-View Similar Case Retrieval Dataset. \
 ***<font color='red'>CIKM2023 Best Resource Paper Honorable Mention</font>***\
 32nd ACM International Conference on Information and Knowledge Management.
