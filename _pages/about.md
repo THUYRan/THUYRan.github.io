@@ -42,9 +42,7 @@ International Joint Conference on Artificial  Intelligence
   [[code]](https://github.com/THUlawtech/MUSER)
 * STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals. \
 **(Arxiv)**.\
-  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LeClari.pdf)
-
-  
+  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/stard.pdf)
 * Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval. \
 32nd ACM International Conference on Information and Knowledge Management.
 **(CIKM 2023 Full Paper)**.\
