@@ -29,12 +29,11 @@ Education
 
 Publications (Selected)
 ======
-* LEEC for judicial fairness:  \
-***<font color='red'>CIKM2023 Best Resource Paper Honorable Mention</font>***\
-32nd ACM International Conference on Information and Knowledge Management.
-**(CIKM 2023)**.\
-  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/MUSER.pdf)
-  [[code]](https://github.com/THUlawtech/MUSER)
+* LEEC for Judicial Fairness: A Legal Element Extraction Dataset with Extensive Extra-Legal Labels  \
+International Joint Conference on Artificial  Intelligence
+**(IJCAI 2024)**.\
+  [[paper]](https://github.com/THUYRan/THUYRan.github.io/blob/master/publications/LEEC_IJCAI24.pdf)
+  [[code]](https://github.com/THUlawtech/LEEC)
 * MUSER: A Multi-View Similar Case Retrieval Dataset. \
 ***<font color='red'>CIKM2023 Best Resource Paper Honorable Mention</font>***\
 32nd ACM International Conference on Information and Knowledge Management.
