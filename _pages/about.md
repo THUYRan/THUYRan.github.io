@@ -17,7 +17,7 @@ During my research journey, my research has been focused on Legal LLMs and AI et
 Education
 ======
 
-* ***2021-present, Master student, Computational Law, Tsinghua University.***\
+* ***2021-2024, Master student, Computational Law, Tsinghua University.***\
   Tsinghua University Outstanding Graduate.(About 1%) \
   Tsinghua University Scholarship.
 * ***2017-2021, B.E., Computer Science and Technology, Beijing Foreign Studies University.*** \
