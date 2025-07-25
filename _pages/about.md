@@ -28,9 +28,9 @@ Education
 
 Publications (Selected)
 ======
-* J&h: evaluating the robustness of large language models under knowledge-injection attacks in legal domain
+* J&H: evaluating the robustness of large language models under knowledge-injection attacks in legal domain
 **(AAAI 2025)**.\
-  [[paper]]([https://ojs.aaai.org/index.php/AAAI/article/view/35029])
+  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35029)
 
 
 * LEEC for Judicial Fairness: A Legal Element Extraction Dataset with Extensive Extra-Legal Labels  \
