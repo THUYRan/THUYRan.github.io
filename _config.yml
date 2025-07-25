@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiran HU"
 title_separator          : "-"
 name                     : &name "Yiran HU"
-description              : &description "Master student major in computational law at Tsinghua University."
+description              : &description "PhD student in Computer Science at University of Waterloo."
 url                      : https://thuyran.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "THUYRan/THUYRan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiran Hu"
   avatar           : "IMG_0436.PNG"
-  bio              : "Master student major in Computational Law, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "PhD student in Computer Science at University of Waterloo."
+  location         : "Waterloo, Canada"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
-  email            :  huyr21@mails.tsinghua.edu.cn
+  email            :  huyr17@outlook.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
